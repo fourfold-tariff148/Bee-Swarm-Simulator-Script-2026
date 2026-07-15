@@ -1,0 +1,5 @@
+pygetwindow
+opencv-python
+psutil
+pymem
+colorama
